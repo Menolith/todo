@@ -15,7 +15,7 @@ export const TodoList = ({ list, remove }) => {
                   remove(entry);
                 }}
               >
-                Delete
+                Yeet
               </button>
             </div>
           ))}
